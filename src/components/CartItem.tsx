@@ -36,6 +36,7 @@ const CartItem = ({ id, quantity }: cartItemProps) => {
 			>
 				<img
 					src={item.imgURL}
+					alt="product"
 					style={{ width: "125px", height: "75px", objectFit: "cover" }}
 				/>
 				<div className="me-auto">
