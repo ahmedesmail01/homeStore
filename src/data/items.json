@@ -1,0 +1,50 @@
+[
+	{
+		"id": 1,
+		"name": "black-shose",
+		"price": 120,
+		"imgURL": "./images/black-shose.jpg"
+	},
+	{
+		"id": 2,
+		"name": "colored-shose",
+		"price": 160,
+		"imgURL": "./images/colored-shose.jpg"
+	},
+	{
+		"id": 3,
+		"name": "cosmo",
+		"price": 90,
+		"imgURL": "./images/cosmo.jpg"
+	},
+	{
+		"id": 4,
+		"name": "dove",
+		"price": 30,
+		"imgURL": "/images/dove.jpg"
+	},
+	{
+		"id": 5,
+		"name": "hand-watch",
+		"price": 130,
+		"imgURL": "/images/hand-watch.jpg"
+	},
+	{
+		"id": 6,
+		"name": "headphone",
+		"price": 170,
+		"imgURL": "/images/headphone.jpg"
+	},
+	{
+		"id": 7,
+		"name": "red-shose",
+		"price": 140,
+		"imgURL": "/images/red-shose.jpg"
+	},
+	{
+		"id": 1,
+		"name": "shampoo",
+		"price": 65,
+		"imgURL": "/images/shampoo.jpg"
+	}
+]
