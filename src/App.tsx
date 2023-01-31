@@ -21,7 +21,7 @@ function App() {
 				</Routes>
 				<p className="text-center my-5">
 					Made with Love By{" "}
-					<a href="https://github.com/ahmedesmail01" target="_blank">
+					<a href="https://github.com/ahmedesmail01" target="_blank" rel="noreferrer">
 						Ahmed Esmail
 					</a>
 				</p>
